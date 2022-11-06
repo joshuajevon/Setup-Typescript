@@ -31,7 +31,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "typescript",
+  "name": "typescript123",
   "author": "joshuajevon",
   "module": "dist/typescript.esm.js",
   "size-limit": [
