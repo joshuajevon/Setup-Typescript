@@ -1,7 +1,9 @@
 import React from 'react';
 
 const NewComponent = () => {
-  return <>NewComponent</>;
+  return (
+        <button>test</button>
+  );
 };
 
 export default NewComponent;
